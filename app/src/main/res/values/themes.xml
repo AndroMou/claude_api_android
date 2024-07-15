@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GptTheme" parent="Theme.MaterialComponents.Light">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+    <style name="Theme.Splash" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>
